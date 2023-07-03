@@ -6,8 +6,8 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Organo Typescript**
 | :label: Tecnologias | React, Typescript
-| :rocket: URL         | https://url-deploy.com.br](https://github.com/NilsonPagnez/organo-typescript
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         |https://github.com/NilsonPagnez/organo-typescript
+| :fire: Desafio     | https://cursos.alura.com.br/course/react-migrando-typescript
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
