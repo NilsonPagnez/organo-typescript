@@ -1,6 +1,6 @@
 # Organo Typescript
 
-Rápida descrição do objetivo de fazer esse projeto
+Formulário que ao ser preenchido, cria um card com suas respectivas informações.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -14,6 +14,8 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Formulário que ao ser preenchido, cria um card com suas respectivas informações.
 
+Exemplo:
 
+![](Screenshot_2.png#vitrinedev)
