@@ -1,17 +1,19 @@
-# Organo
+# Organo Typescript
 
-O Organo é aplicação desenvolvida no curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">React: desenvolvendo com JavaScript</a>. 
-Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
+Rápida descrição do objetivo de fazer esse projeto
 
-<img src="screencapture.png" alt="Imagem do Organo" width="50%">
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Organo Typescript**
+| :label: Tecnologias | React, Typescript
+| :rocket: URL         | https://url-deploy.com.br](https://github.com/NilsonPagnez/organo-typescript
+| :fire: Desafio     | https://url-do-desafio.com.br
 
-## ✔️ Técnicas e tecnologias utilizadas
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-Se liga nessa lista de tudo que usaremos nessa formação:
+## Detalhes do projeto
 
-- `React`
-- `React Hooks`
-- `TypeScript`
+Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
 
-E muito mais!
 
